@@ -136,10 +136,6 @@ Este projeto foi desenvolvido como trabalho acadêmico. Sugestões e melhorias s
 - Pull Requests
 - Discussões acadêmicas
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## 📞 Contato
 
 - **Lucas Barros Simon** - [GitHub](https://github.com/21lucasbarros)
